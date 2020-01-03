@@ -3,8 +3,7 @@
 namespace HelloWorldCore {
 	class Program {
 		static void Main(string[] args) {
-			Console.WriteLine("Hello World from git directly from webPage again oops!");
-			Console.WriteLine("This is version 2 of app");
+			Console.WriteLine("Hello World from git directly from webPage fixed");
 		}
 	}
 }
