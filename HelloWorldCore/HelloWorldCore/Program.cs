@@ -7,6 +7,7 @@ namespace HelloWorldCore {
 			Console.Write("Error fix here");
 			Console.Write("Error fix 2 here");
 			Console.Write("Error fix 3 here");
+			Console.Write("Error fix 4 here");
 			Console.Write("");
 		}
 	}
