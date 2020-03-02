@@ -9,6 +9,7 @@ namespace HelloWorldCore {
 		static void DisplayStartMessage()
 		{
 			Console.WriteLine("Hello World from git directly from webPage fixed v2 released");
+			Console.WriteLine("Hotfix 1");
 		}
 	}
 }
