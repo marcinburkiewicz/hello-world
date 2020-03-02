@@ -10,6 +10,7 @@ namespace HelloWorldCore {
 		{
 			Console.WriteLine("Hello World from git directly from webPage fixed v2 released");
 			Console.WriteLine("Hotfix 1");
+			Console.WriteLine("Hotfix 2");
 		}
 	}
 }
