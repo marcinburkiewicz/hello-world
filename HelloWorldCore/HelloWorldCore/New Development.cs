@@ -7,5 +7,7 @@ namespace HelloWorldCore {
 		private bool _mp;
 		private bool _mp2;
 		private bool _mp3;
+		private bool _newDevelop1;
+		private bool _newDevelop2;
 	}
 }
