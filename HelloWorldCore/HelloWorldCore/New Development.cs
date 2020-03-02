@@ -9,5 +9,6 @@ namespace HelloWorldCore {
 		private bool _mp3;
 		private bool _newDevelop1;
 		private bool _newDevelop2;
+		private bool _newDevelop3;
 	}
 }
