@@ -13,5 +13,7 @@ namespace HelloWorldCore {
 		private bool _newDevelop3;
 		private bool _newDevelop4;
 		private bool _newDevelop5;
+		private bool _newDevelop6;
+		private bool _newDevelop7;
 	}
 }
