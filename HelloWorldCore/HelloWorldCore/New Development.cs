@@ -4,6 +4,7 @@ using System.Text;
 
 namespace HelloWorldCore {
 	class New_Development {
+		private string h2;
 		private bool _mp;
 		private bool _mp2;
 		private bool _mp3;
